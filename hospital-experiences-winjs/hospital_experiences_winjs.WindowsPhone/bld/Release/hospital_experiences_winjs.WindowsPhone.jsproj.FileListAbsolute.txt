@@ -1,0 +1,15 @@
+C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.WindowsPhone\bin\Release\ReverseMap\resources.pri
+C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.WindowsPhone\bin\Release\hospital_experiences_winjs.WindowsPhone.build.appxrecipe
+C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.WindowsPhone\bld\Release\priconfig.xml
+C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.WindowsPhone\bld\Release\priconfig.xml.intermediate
+C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.WindowsPhone\bld\Release\layout.resfiles
+C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.WindowsPhone\bld\Release\layout.resfiles.intermediate
+C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.WindowsPhone\bld\Release\resources.resfiles
+C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.WindowsPhone\bld\Release\resources.resfiles.intermediate
+C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.WindowsPhone\bld\Release\pri.resfiles
+C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.WindowsPhone\bld\Release\pri.resfiles.intermediate
+C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.WindowsPhone\bld\Release\qualifiers.txt
+C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.WindowsPhone\bld\Release\qualifiers.txt.intermediate
+C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.WindowsPhone\bld\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.WindowsPhone\bld\Release\ProjectArchitectures.txt

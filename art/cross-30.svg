@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="30"
+   height="30"
+   sodipodi:docname="cross-30.png"
+   inkscape:export-filename="C:\Users\bill\SkyDrive\Projects\apps\hospital-experiences\art\check-30.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1219"
+     inkscape:window-height="816"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="14.825672"
+     inkscape:cx="2.4847212"
+     inkscape:cy="13.344603"
+     inkscape:window-x="89"
+     inkscape:window-y="80"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer">
+    <rect
+       style="fill:#800033;fill-opacity:1;stroke:none"
+       id="rect2983"
+       width="30"
+       height="30"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer#1">
+    <g
+       transform="matrix(1.25,0,0,-1.25,-0.988125,37.269375)"
+       inkscape:label="check"
+       id="g3006"
+       style="fill:#ffffff">
+      <path
+         id="path3008"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="M 11.447,12.823 10.913,12.47 c -0.461,-0.299 -0.858,-0.597 -1.19,-0.896 -0.066,0.291 -0.228,0.761 -0.487,1.41 l -0.267,0.692 c -0.608,1.497 -1.12,2.543 -1.536,3.138 -0.416,0.594 -0.868,0.916 -1.355,0.966 0.655,0.526 1.229,0.79 1.724,0.79 0.665,0 1.398,-0.876 2.2,-2.628 l 0.436,-0.943 c 2.113,3.789 4.924,7.158 8.432,10.106 l -14.626,0 0,-15.585 15.585,0 0,15.161 c -1.88,-1.718 -3.571,-3.64 -5.073,-5.766 -1.502,-2.126 -2.605,-4.157 -3.309,-6.092 z m 9.639,12.911 0,-17.471 -18.099,0 0,18.099 17.462,0 c 0.652,0.395 1.239,0.731 1.76,1.006 l 0.385,-0.594 c -0.432,-0.285 -0.935,-0.632 -1.508,-1.04"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BPARDI-W530</Machine>
+    <WindowsUser>bpardi</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8b9b866b-cc02-4e12-98dd-6cef4c8c30d1</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.Windows\bld\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>A479A858E108630242569A8465A50DF3F0217DD2B8ECEC2920310E875810B39F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8b9b866b-cc02-4e12-98dd-6cef4c8c30d1_1.0.0.0_neutral__1c16qfgeq9f04</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8b9b866b-cc02-4e12-98dd-6cef4c8c30d1_1c16qfgeq9f04!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8b9b866b-cc02-4e12-98dd-6cef4c8c30d1</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=bpardi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.Windows\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-05T15:56:38.035</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.Windows\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2014-04-05T15:47:29.429</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.Windows\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2014-04-05T15:47:29.434</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.Windows\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2014-04-05T15:47:29.387</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.Shared\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2014-04-05T19:22:22.012</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.Windows\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T23:26:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.Windows\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T23:26:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.Windows\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T23:26:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.Windows\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T23:26:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.Shared\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2014-04-05T15:47:27.862</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.Shared\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2014-04-05T15:47:27.874</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.Shared\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2014-04-05T17:04:22.453</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bpardi\SkyDrive\Projects\apps\hospital-experiences\hospital-experiences-winjs\hospital_experiences_winjs.Windows\bin\Release\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-04-05T15:56:37.802</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

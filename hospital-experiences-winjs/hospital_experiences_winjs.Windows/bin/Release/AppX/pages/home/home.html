@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Mindtile</title>
+
+    <link href="/css/default.css" rel="stylesheet" />
+    <link href="/pages/home/home.css" rel="stylesheet" />
+    <script src="/pages/home/home.js"></script>
+</head>
+<body>
+    <!-- The content that will be loaded and displayed. -->
+    <div class="fragment homepage">
+        <header aria-label="Header content" role="banner">
+            <h1 class="titlearea win-type-ellipsis">
+                <span class="pagetitle">Pick a state</span>
+            </h1>
+        </header>
+        <section aria-label="Main content" role="main">
+            <div id="smallListTextTemplate" data-win-control="WinJS.Binding.Template" style="display: none">
+                <div class="smallListTextItem">
+                    <h4 data-win-bind="textContent: stateName"></h4>
+                </div>
+            </div>
+
+            <!-- The declarative markup necesary for ListView instantiation -->
+            <!-- Call WinJS.UI.processAll() in your initialization code -->
+            <div id="listView"
+                 class="win-selectionstylefilled"
+                 data-win-control="WinJS.UI.ListView"
+                 data-win-options="{
+                    itemDataSource: mt.ListView.data.dataSource,
+                    itemTemplate: smallListTextTemplate,
+                    selectionMode: 'none',
+                    tapBehavior: 'none',
+                    swipeBehavior: 'none',
+                    layout: { type: WinJS.UI.GridLayout }
+                 }">
+            </div>
+        </section>
+    </div>
+</body>
+</html>
